@@ -8,6 +8,3 @@ end
   y = x.collect{|z| x << z**2}
  y
 end
-
-
-
