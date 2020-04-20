@@ -4,4 +4,3 @@ def square_array(array)
   x
  end
 end
- 
