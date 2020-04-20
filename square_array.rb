@@ -3,4 +3,3 @@ def square_array(array)
   array.each{|y| x << y**2}
  x
 end
-
